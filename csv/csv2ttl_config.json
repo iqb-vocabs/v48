@@ -1,0 +1,83 @@
+{
+    "id": "2020PhSek2",
+    "title": [
+      {
+        "lang": "de",
+        "value": "Bildungsstandards Physik Sek II 2020"
+      }
+    ],
+    "csv_delimiter": ",",
+    "base": "https://w3id.org/iqb/v48",
+    "outDir": "./",
+    "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+    "vocabularies": [
+      {
+        "id": "k1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Bildungsstandards für die Kompetenzbereiche im Faches Physik"
+          }
+        ],
+        "filenameSource": "k1_Kompetenzbereiche.csv",
+        "filenameTarget": "k1_Kompetenzbereiche.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "\"\"Die Bildungsstandards für die Allgemeine Hochschulreife definieren die Kompetenzen, die Lernende bis zum Ende der Qualifikationsphase erwerben sollen. Diese werden im Unterricht sowohl auf grundlegendem als auch auf erhöhtem Anforderungsniveau entwickelt.\n\nUnterricht auf grundlegendem Anforderungsniveau repräsentiert gemäß der Vereinbarung zur Gestaltung der gymnasialen Oberstufe und der Abiturprüfung (i. d. F. vom 15.02.2018, Ziffer 3.2) „das Lernniveau der gymnasialen Oberstufe unter dem Aspekt einer wissenschaftspropädeutischen Bildung. Unterricht mit erhöhtem Anforderungsniveau repräsentiert das Lernniveau der gymnasialen Oberstufe unter dem Aspekt einer wissenschaftspropädeutischen Bildung, die exemplarisch vertieft wird.“\n\nDer Unterschied in den Anforderungen der beiden Anforderungsniveaus liegt im Umfang und in der Tiefe der gewonnenen Kenntnisse und des Wissens über deren Verknüpfungen. Zudem unterscheiden sie sich im Maß der Selbststeuerung bei der Bearbeitung von Problemstellungen.\n\nDas erhöhte Anforderungsniveau äußert sich im Physikunterricht im Bereich der Sachkompetenz darin, dass zu bestimmten Themen mehr Sachverhalte evtl. in höherer Komplexität der verwendeten Modelle detaillierter betrachtet werden. Darüber hinaus nutzen Lernende des erhöhten Anforderungsniveaus auch eine deutlich umfangreichere und tiefere Mathematisierung.\n\nIm Bereich der Erkenntnisgewinnungskompetenz wird auf erhöhtem Anforderungsniveau vermehrt auf einen formalen Umgang mit Messunsicherheiten und auf die Reflexion über Vor- und Nachteile oder die Aussagekraft verschiedener Mess- und Auswertungsverfahren Wert gelegt.\n\nDie Lernenden des erhöhten Anforderungsniveaus besitzen im Bereich der Kommunikationskompetenz ein umfangreicheres Fachvokabular und drücken sich fachlich präziser aus. Sie sind in der Lage, sprachlich und inhaltlich komplexere Fachtexte zu verstehen.\n\nIm Bereich der Bewertungskompetenz können Lernende auf erhöhtem Anforderungsniveau mehr und komplexere Ar-\ngumente mit Belegen heranziehen. Auch gelingt es ihnen, eigene Standpunkte differenzierter zu begründen und so\nbesser gegen sachliche Kritik zu verteidigen.\n\nIm Folgenden werden die einzelnen Kompetenzbereiche definiert und näher beschrieben. Sie werden in Form von Standards präzisiert. Dabei gelten die formulierten Standards für beide Anforderungsniveaus. Die Inhalte, an denen die Kompetenzen erworben werden, sind im Kapitel 2.6 aufgeführt.\"\""
+          }
+        ]
+      },
+      {
+        "id": "b1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Basiskonzepte"
+          }
+        ],
+        "filenameSource": "b1_Basiskonzepte.csv",
+        "filenameTarget": "b1_Basiskonzepte.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "\"\"Der Beschreibung von physikalischen Sachverhalten liegen fachspezifische Gemeinsamkeiten zugrunde, die sich in Form von Basiskonzepten strukturieren lassen. Die Basiskonzepte im Fach Physik ermöglichen die Vernetzung fachlicher Inhalte und deren Betrachtung aus verschiedenen Perspektiven. Die Basiskonzepte werden übergreifend auf alle Kompetenzbereiche bezogen. Sie können kumulativ den Aufbau von strukturiertem Wissen und die Erschließung neuer Inhalte fördern.\n\nDie Basiskonzepte bilden die Grundlage typischer Vorgehensweisen beim Lösen physikalischer Probleme und werden in Lehr-Lern-Prozessen wiederholt thematisiert und ausdifferenziert. Den Lernenden wird aufgezeigt, dass diese grundlegenden Konzepte in vielen verschiedenen Lernbereichen einsetzbar sind und einen systematischen Wissensaufbau und somit den Erwerb eines strukturierten und mit anderen Natur- und Ingenieurwissenschaften vernetzten Wissens unterstützen.\"\""
+          }
+        ]
+      },
+      {
+        "id": "i1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Verbindliche inhaltliche Aspekte"
+          }
+        ],
+        "filenameSource": "i1_Verbindliche_inhaltliche_Aspekte.csv",
+        "filenameTarget": "i1_Verbindliche_inhaltliche_Aspekte.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "\"\"Im Folgenden werden verbindliche Inhalte definiert, an denen die in Kapitel Kompetenzbereiche des Faches Physik beschriebenen Kompetenzen aller vier Kompetenzbereiche erlernt und überprüft werden. Für die Strukturierung wurden fünf Bereiche gewählt, die jedoch Überschneidungen aufweisen und daher nicht getrennt voneinander zu betrachten sind. Die inhaltlichen Aspekte sind so gewählt, dass landesspezifische Ergänzungen und Präzisierungen vorgenommen werden können. Dabei sind regionale und zeitgemäße Kontexte zu berücksichtigen.\n\nDie in den Klammern angegebenen Konkretisierungen sind Teil der verbindlichen Inhalte. Wenn im Folgenden Formeln angewandt, Rechnungen durchgeführt oder aus Diagrammen Gesetzmäßigkeiten abgeleitet werden sollen, wird dies durch die Angabe „quantitativ“ angezeigt.\"\""
+          }
+        ]
+      },
+      {
+        "id": "a1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Anforderungsbereiche"
+          }
+        ],
+        "filenameSource": "a1_Anforderungsbereiche.csv",
+        "filenameTarget": "a1_Anforderungsbereiche.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "\"\"Mit Blick auf die unterrichtliche Einbindung von Aufgaben werden folgende Anforderungsbereiche unterschieden:\"\""
+          }
+        ]
+      }
+    ]
+  }
