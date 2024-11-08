@@ -414,7 +414,7 @@ Im Bereich der Bewertungskompetenz können Lernende auf erhöhtem Anforderungsni
 gumente mit Belegen heranziehen. Auch gelingt es ihnen, eigene Standpunkte differenzierter zu begründen und so
 besser gegen sachliche Kritik zu verteidigen.
 
-Im Folgenden werden die einzelnen Kompetenzbereiche definiert und näher beschrieben. Sie werden in Form von Standards präzisiert. Dabei gelten die formulierten Standards für beide Anforderungsniveaus. Die Inhalte, an denen die Kompetenzen erworben werden, sind im Kapitel 2.6 aufgeführt."""@de;
+Im Folgenden werden die einzelnen Kompetenzbereiche definiert und näher beschrieben. Sie werden in Form von Standards präzisiert. Dabei gelten die formulierten Standards für beide Anforderungsniveaus. Die Inhalte, an denen die Kompetenzen erworben werden, sind im Textfassung Kapitel 2.6 aufgeführt."""@de;
 	skos:hasTopConcept
 		n1:e4r,
 		n1:g2p,
